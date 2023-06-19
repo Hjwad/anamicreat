@@ -1,7 +1,7 @@
 telebot==0.0.4
 requests==2.26.0
 torch==1.13.0
-torchvision==0.11.1
+torchvision==0.15.1
 numpy==1.21.4
 PIL==8.4.0
 diffusers==0.7.2
