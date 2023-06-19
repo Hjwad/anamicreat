@@ -1,4 +1,4 @@
-telebot==3.8.2
+telebot==0.0.4
 requests==2.26.0
 torch==1.10.0
 torchvision==0.11.1
