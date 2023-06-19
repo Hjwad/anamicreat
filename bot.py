@@ -8,7 +8,7 @@ import numpy as np # Numpy library
 import PIL # Python image library
 
 # Define the bot token and create a bot object
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "6174792297:AAGdM8JBr9qoZF0H_QOI3ATqKNDX_a3rlVc"
 bot = telebot.TeleBot(TOKEN)
 
 # Define the model URL and download the model file
