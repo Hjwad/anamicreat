@@ -1,4 +1,4 @@
--f https://download.pytorch.org/whl/torch_stable.html
+-f https://download.pytorch.org/whl/cu117
 torch==2.0.0
 torchvision==0.15.1
 telebot==0.0.4
