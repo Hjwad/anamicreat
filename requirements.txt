@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 telebot==0.0.4
 requests==2.26.0
 torch==2.0.0
