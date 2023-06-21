@@ -1,7 +1,7 @@
 -f https://download.pytorch.org/whl/cu117
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==2.0.0
-torchvision==0.15.1
+torch==2.0.0+cpu
+torchvision==0.15.1+cpu
 telebot==0.0.4
 requests==2.26.0
 numpy==1.22.0
