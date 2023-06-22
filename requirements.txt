@@ -3,5 +3,5 @@ telebot==0.0.4
 torch==1.13.1
 torchvision==0.14.1
 requests==2.26.0
-numpy==1.22.0
+numpy==1.21.6
 Pillow==9.5.0
