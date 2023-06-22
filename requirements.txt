@@ -1,4 +1,3 @@
--f https://download.pytorch.org/whl/cu118
 -f https://download.pytorch.org/whl/torch_stable.html
 telebot==0.0.4
 torch==2.0.0
