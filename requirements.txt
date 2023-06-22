@@ -1,6 +1,6 @@
 -f https://download.pytorch.org/whl/cu118/torch-2.0.0%2Bcu118-cp311-cp311-linux_x86_64.html
 telebot==0.0.4
-torch==2.0.0
+torch==1.13.1
 torchvision==0.15.1
 requests==2.26.0
 numpy==1.22.0
