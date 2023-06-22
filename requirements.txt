@@ -1,3 +1,4 @@
+--index-url https://download.pytorch.org/whl/cu118
 -f https://download.pytorch.org/whl/cu117
 -f https://download.pytorch.org/whl/cu118
 -f https://download.pytorch.org/whl/torch_stable.html
